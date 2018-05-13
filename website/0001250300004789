@@ -1,6 +1,7 @@
 <html>
 <head>
 <style>
+
 #customers {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
@@ -51,25 +52,25 @@
 
 <central>
 
-<table id="customers"; align="center"; width="100%">  
+<table id="customers"; align="center"; border="0px"; width="100%">  
 <tr>  
     <td rowspan="3"><center><img align="center" src="str.jpeg" height="160px"></center></td>
     <th>Farm</th>
     <td>Davenport Farms</td>
     <td>Date/Time Out: May-12-2018 7:30 AM</td>
-    <td><i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
+    <td>&#9989;<i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
 </tr>  
 <tr>  
     <th>Warehouse</th>
     <td>Greenmarket Co.</td>
     <td>Date/Time In: May-12-2018 9:40 AM</td>
-    <td><i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
+    <td>&#9989;<i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
 </tr>  
 <tr>  
     <th>Retailer</th>
     <td>Gramercy Tavern</td>
     <td>Date/Time In: May-13-2018 11:54 AM</td>
-    <td><i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
+    <td>&#9989;<i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
 </tr>  
 </table>  
 </central>
