@@ -1,0 +1,65 @@
+[
+    {
+        "hash_id": "3606d960-5649-11e8-bd32-018e8a23315f",
+        "proof": {
+            "@context": "https://w3id.org/chainpoint/v3",
+            "type": "Chainpoint",
+            "hash": "2d00e7785e46d055113aa8614f495eb590f48de0dd869dfa5706005a8284f203",
+            "hash_id_node": "3606d960-5649-11e8-bd32-018e8a23315f",
+            "hash_submitted_node_at": "2018-05-13T01:01:47Z",
+            "hash_id_core": "387a2350-5649-11e8-83e3-01fbb507e255",
+            "hash_submitted_core_at": "2018-05-13T01:01:51Z",
+            "branches": [
+                {
+                    "label": "cal_anchor_branch",
+                    "ops": [
+                        {
+                            "l": "node_id:3606d960-5649-11e8-bd32-018e8a23315f"
+                        },
+                        {
+                            "op": "sha-256"
+                        },
+                        {
+                            "l": "core_id:387a2350-5649-11e8-83e3-01fbb507e255"
+                        },
+                        {
+                            "op": "sha-256"
+                        },
+                        {
+                            "l": "nist:1526173260:e5d9e482e6761a823cda8ab97ef6829d48db3532de1cd7c4509be6e4fba7ed0b07af0bdae4b26426e24d17e2fa7107bdd8a780df4fe388f8e29d143c7cc2685a"
+                        },
+                        {
+                            "op": "sha-256"
+                        },
+                        {
+                            "l": "72c21fa28e3f4eb29517e87a2671a38207b7abda4ce6b952115c5a2257949a79"
+                        },
+                        {
+                            "op": "sha-256"
+                        },
+                        {
+                            "l": "1318884:1526173318:1:https://c.chainpoint.org:cal:1318884"
+                        },
+                        {
+                            "r": "b417ce3664f677b24aa1e1b7fe64ebf53ec4076cb37a77b886dbff8bf98db4ad"
+                        },
+                        {
+                            "op": "sha-256"
+                        },
+                        {
+                            "anchors": [
+                                {
+                                    "type": "cal",
+                                    "anchor_id": "1318884",
+                                    "uris": [
+                                        "https://c.chainpoint.org/calendar/1318884/hash"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
