@@ -1,6 +1,7 @@
 <html>
 <head>
 <style>
+<style>
 #customers {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
@@ -44,39 +45,43 @@
 .button5 {border-radius: 100%;}
 </style>
 </head>
-<body>  
-<center> 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9VJ1nzb5NKNFtuE0DE0sLOp19VXrc_M" width="100%" height="70%"></iframe>
+<body>   
+<center>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14kaUIu1DuViFf5ebg-aJkKOFwiNCT8Ji" width="100%" height="70%"></iframe>
 </center>
 
 <central>
 
-<table id="customers"; align="center"; width="100%">  
-<tr>  
-    <td rowspan="3"><center><img align="center" src="str.jpeg" height="160px"></center></td>
+<table id="customers"; align="center" border="0px"; width="100%">  
+<tr>
+    <td rowspan="3"><center><img align="center" src="arg.jpeg" height="160px"></center></td>
     <th>Farm</th>
-    <td>Davenport Farms</td>
-    <td>Date/Time Out: May-12-2018 7:30 AM</td>
-    <td><i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
+    <td>Satur Farm</td>
+    <td>Date/Time Out: May-12-2018 1:30 PM</td>
+    <td><i><a href="http://www.veriphresh.com/proofs/bd4f85d0-55e4-11e8-9680-010356e967f9.json">more details</a></i></td>
 </tr>  
 <tr>  
     <th>Warehouse</th>
     <td>Greenmarket Co.</td>
-    <td>Date/Time In: May-12-2018 9:40 AM</td>
-    <td><i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
+    <td>Date/Time In: May-12-2018 5:40 PM</td>
+    <td><i><a href="http://www.veriphresh.com/proofs/bd4f85d0-55e4-11e8-9680-010356e967f9.json">more details</a></i></td>
 </tr>  
 <tr>  
     <th>Retailer</th>
-    <td>Gramercy Tavern</td>
-    <td>Date/Time In: May-13-2018 11:54 AM</td>
-    <td><i><a href="http://www.veriphresh.com/proofs/3606d960-5649-11e8-bd32-018e8a23315f.json">more details</a></i></td>
+    <td>Greene Grape Provisions</td>
+    <td>Date/Time In: May-13-2018 8:41 AM</td>
+    <td><i><a href="http://www.veriphresh.com/proofs/bd4f85d0-55e4-11e8-9680-010356e967f9.json">more details</a></i></td>
 </tr>  
 </table>  
 </central>
 <center><button class="button button4">Something Wrong? See Freshness? Leave Feedback</button></center>
 
+
 </body>
 </html>
+
+
+
 
 
 
